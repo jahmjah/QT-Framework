@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RES/salir_1 (382).png</file>
+        <file>RES/abrir_Doc.png</file>
+        <file>RES/copiar_Document.png</file>
+        <file>RES/cortar_Blank-Alt.png</file>
+        <file>RES/creditos_User Card.png</file>
+        <file>RES/guardar_HD.png</file>
+        <file>RES/mainW_1 (342).png</file>
+        <file>RES/nuevo_Blank.png</file>
+        <file>RES/pegar_Packed.png</file>
+        <file>RES/Close.png</file>
+        <file>RES/Printer.png</file>
+    </qresource>
+</RCC>
