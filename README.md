@@ -62,3 +62,8 @@ Invitame una cerveza  o un café.
 
 Da las gracias públicamente en mi perfil de https://www.linkedin.com/in/jahmjah.
 
+<a href="#">#C++</a>
+<a href="#">#QT Framework</a>
+
+<a href="#">#Notepad </a>
+<a href="#">GUI </a>
