@@ -2,6 +2,18 @@
 
 Un simple editor de texto al estilo del Bloc de Notas de Microsoft Windows. Aquí encontraras el código fuente en C++ tanto de la interfaz como los archivos base del proyecto. El nivel de dificultad es nivel medio porque debes tener conocimientos básicos sobre lenguaje C++ y como generar el GUI con QT. 
 
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0001.jpg">
+<br>
+
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0002.jpg">
+<br>
+
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0003.jpg">
+<br>
+
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0004.jpg">
+<br>
+
 <H2> Comenzando </H2> 
 
 Sigue el enlace DESCARGAR que te permitirá obtener una copia del código fuente del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
