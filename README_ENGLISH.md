@@ -4,6 +4,19 @@ Simple text Notepad like Microsoft Windows Notepad. You can get the full source
 code y download to your PC. Tested with Windows XP and Windows 7. You can make 
 as many copies or Fork as you want and you can share and/or distribute this 
 program as you wish.<br>
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0001.jpg">
+<br>
+
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0002.jpg">
+<br>
+
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0003.jpg">
+<br>
+
+<img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0004.jpg">
+<br>
+
+
 <h2>Starting</h2>
 Choose the option &quot;Download&quot; that give you a copy with all source code of this 
 project 
