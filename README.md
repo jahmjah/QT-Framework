@@ -1,5 +1,6 @@
 # QT Notepad C++
-
+<br>
+<a href="https://github.com/jahmjah/QT-Notepad/blob/main/README_ENGLISH.md">English Readme</a><br><br>
 Un simple editor de texto al estilo del Bloc de Notas de Microsoft Windows. Aquí encontraras el código fuente en C++ tanto de la interfaz como los archivos base del proyecto. El nivel de dificultad es nivel medio porque debes tener conocimientos básicos sobre lenguaje C++ y como generar el GUI con QT. 
 
 <img src="https://github.com/jahmjah/QT-Notepad/blob/main/1-0001.jpg">
